@@ -17,24 +17,31 @@
         <EditText
             android:layout_width="259dp"
             android:layout_height="65dp"
+            android:hint="First name"
             tools:ignore="MissingConstraints">
 
         </EditText>
+
         <EditText
             android:layout_width="259dp"
             android:layout_height="65dp"
+            android:hint="Last name"
             tools:ignore="MissingConstraints">
 
         </EditText>
+
         <EditText
             android:layout_width="259dp"
             android:layout_height="65dp"
+            android:hint="Phone number"
             tools:ignore="MissingConstraints">
 
         </EditText>
+
         <EditText
             android:layout_width="259dp"
             android:layout_height="65dp"
+            android:hint="Email"
             tools:ignore="MissingConstraints">
 
         </EditText>
